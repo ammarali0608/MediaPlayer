@@ -5,14 +5,14 @@ A media player that allows users to select a song, play/pause the song, and seek
 
 ##Features
 
-    Add a song to the media player by clicking the "Add Song" button
-    Play/pause the song by clicking the "Play" button
-    Seek through the song using the seek bar
+Add a song to the media player by clicking the "Add Song" button
+Play/pause the song by clicking the "Play" button
+Seek through the song using the seek bar
 
 ##Requirements
 
-    Android device
-    Android Studio
+Android device
+Android Studio
 
 #Getting Started
 
@@ -20,11 +20,11 @@ A media player that allows users to select a song, play/pause the song, and seek
 
 ```git clone https://github.com/USERNAME/repository.git```
 
-    Open the project in Android Studio
+Open the project in Android Studio
 
-    Run the app on an Android device or emulator
+Run the app on an Android device or emulator
 
 ##Future Improvements
 
-    Support for multiple songs
-    Display album artwork for the currently playing song
+Support for multiple songs
+Display album artwork for the currently playing song
